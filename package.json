@@ -1,6 +1,6 @@
 {
   "name": "autoqueue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Helps AMQP publishers keep their bindings up.",
   "main": "lib/AutoQueue.js",
   "scripts": {
@@ -31,5 +31,8 @@
     "winston": "~0.6.2",
     "rabbit-hat": "~0.1.0"
   },
-  "keywords": ["amqp", "rabbitmq"]
+  "keywords": [
+    "amqp",
+    "rabbitmq"
+  ]
 }
