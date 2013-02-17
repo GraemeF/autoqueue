@@ -1,7 +1,7 @@
 {
   "name": "autoqueue",
   "version": "0.1.1",
-  "description": "Provides publishers with a persistent connection to a queue.",
+  "description": "Helps AMQP publishers keep their bindings up.",
   "main": "lib/AutoQueue.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha",
@@ -30,5 +30,6 @@
     "sinon-chai": "~2.3.1",
     "winston": "~0.6.2",
     "rabbit-hat": "~0.1.0"
-  }
+  },
+  "keywords": ["amqp", "rabbitmq"]
 }
