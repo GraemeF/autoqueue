@@ -1,6 +1,6 @@
 {
   "name": "autoqueue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Provides publishers with a persistent connection to a queue.",
   "main": "lib/AutoQueue.js",
   "scripts": {
